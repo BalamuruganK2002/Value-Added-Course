@@ -22,6 +22,7 @@ To use this script, you will need to have R installed on your computer, as well 
 
 The script includes the following visualizations:
 Medical insurance charges count bar graph
+![Rplot01](https://user-images.githubusercontent.com/114388128/221771623-06850793-a9ef-4bf7-b848-8aaab367e6d7.png)
 
 Gender wise medical charges plot
 Charges based on smoking category plot
