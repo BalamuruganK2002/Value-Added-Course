@@ -21,10 +21,10 @@ charges: medical insurance charges billed by the insurance company
 To use this script, you will need to have R installed on your computer, as well as the ggplot2 library. Once you have these installed, simply run the bmi_analysis.R script in RStudio or on the command line to generate the visualizations.
 
 The script includes the following visualizations:
-Medical insurance charges count bar graph
+->Medical insurance charges count bar graph
 ![Rplot01](https://user-images.githubusercontent.com/114388128/221771623-06850793-a9ef-4bf7-b848-8aaab367e6d7.png)
+->Gender wise medical charges plot
 
-Gender wise medical charges plot
 Charges based on smoking category plot
 Gender based charges from each smoking category plot
 Pie chart for charges
