@@ -47,8 +47,8 @@ The script includes the following visualizations:
 
 # Results
 
-The program generates visualizations to understand the following relationships in the dataset:
-->The proportion of people who smoke
-->The relationship between smoking and medical insurance charges
-->The relationship between gender, smoking, and medical insurance charges
-->The distribution of medical insurance charges by age, smoking, and gender
+The program generates visualizations to understand the following relationships in the dataset:  
+->The proportion of people who smoke  
+->The relationship between smoking and medical insurance charges  
+->The relationship between gender, smoking, and medical insurance charges  
+->The distribution of medical insurance charges by age, smoking, and gender  
