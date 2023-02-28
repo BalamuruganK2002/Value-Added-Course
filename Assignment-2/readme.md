@@ -7,13 +7,13 @@ This program performs data analysis on medical insurance data to visualize the r
 
 # Dataset
 
-The dataset used in this program is insurance.csv. It contains the following columns:
-->age: age of the policyholder
-->sex: gender of the policyholder
-->bmi: body mass index of the policyholder
-->children: number of children of the policyholder
-->smoker: smoking status of the policyholder
-->region: region where the policyholder resides
+The dataset used in this program is insurance.csv. It contains the following columns:  
+->age: age of the policyholder  
+->sex: gender of the policyholder  
+->bmi: body mass index of the policyholder  
+->children: number of children of the policyholder  
+->smoker: smoking status of the policyholder  
+->region: region where the policyholder resides  
 ->charges: medical insurance charges billed by the insurance company
 
 # Usage
