@@ -23,20 +23,20 @@ prop.table(table(Medical_Insurance$smoker))
 library(ggplot2)
 
 
-# People Survival Count Bar graph
+# Medical_Insurance Charges Count Bar graph
 ggplot(Medical_Insurance, aes(x = smoker)) + theme_classic() + 
   geom_bar() + 
   labs(y = "People count", title = "Medical_Insurance Charges")
 
 
-# Gender wise survival Plot
+# Gender wise medical charges Plot
 ggplot(Medical_Insurance, aes(x = sex, fill = smoker)) + theme_light() + 
   geom_bar() + 
   labs(y = "People count", 
        title = "Medical_Insurance Charges by gender")
 
 
-# Plot for survival based on smoking category
+# Plot for charges based on smoking category
 ggplot(Medical_Insurance, aes(x = children, fill = smoker)) + theme_light() + 
   geom_bar() + 
   labs(y = "People count", 
